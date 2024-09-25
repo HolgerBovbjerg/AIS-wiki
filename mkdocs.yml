@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: AI and Sound Wiki
+nav:
+  - Home: index.md
+  - Current Projects: projects.md
+  - Collaborations: collaborations.md
+  - Practical Information: practical-info.md
+  - Staff: staff.md
+  - Blog Posts: blog.md
+theme:
+  name: material
+  logo: images/AAU_UK_CIRCLE_white_cmyk.svg
+  favicon: images/AAU_ORANGE_LYSTONE.ico
+  palette:
+    scheme: default
+    primary: '#211a52'     # Main color
+    accent: '#594fbf'      # Accent color
+    background: white       # Background color
+extra_css:
+  - stylesheets/extra.css
+
