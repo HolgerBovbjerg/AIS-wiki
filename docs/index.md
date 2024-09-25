@@ -1,24 +1,23 @@
 # AI and Sound Section @ Aalborg University
-
 <div style="text-align: center;">
     <img src="images/anechoic_room_mic.webp" alt="mic in anechoic room" style="width: 100%; max-width: 600px;"/>
 </div>
 
 **Welcome to the AI and Sound Section at Aalborg University!**
-
-On this webpage you can find information about our current projects, our collaborations as well as practical information for new employees and visitors.
+On this webpage you can find information about our section as well as practical information for new employees and visitors.
 
 ## Overview
 The AI and Sound Section is affiliated with the Department of Electronic Systems at Aalborg University. 
-Our research focuses on sound and audio, AI and machine learning, signal processing, and their various applications such as speech enhancement or sound zones.
+Our research focuses on Acoustics, AI and machine learning, signal processing and user testing,
+as well as their various applications such as speech enhancement or sound zones.
 
-## Key Projects
+## Our Projects
 We are involved in several innovative projects, collaborating with both industry and academic partners to push the boundaries of what is possible.
+
+Feel free to explore our projects and reach if you are interested in collaboration!
 
 ## Contact Information
 - **Head of Section**: Jan Østergaard
 - **Phone**: +45 99 40 86 93
 - **Email**: jo@es.aau.dk
 - **Location**: Aalborg, Denmark
-
-Feel free to explore our projects and reach out for collaborations!
