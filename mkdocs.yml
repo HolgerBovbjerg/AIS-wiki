@@ -2,11 +2,12 @@
 site_name: AI and Sound Wiki
 nav:
   - Home: index.md
-  - Current Projects: projects.md
-  - Collaborations: collaborations.md
-  - Practical Information: practical-info.md
-  - Staff: staff.md
-  - Blog Posts: blog.md
+  - Current Projects: pages/projects/projects.md
+  - Collaborations: pages/collaborations.md
+  - Practical Information: pages/practical_info/practical-info.md
+  - Staff: pages/staff.md
+  - Blog Posts: pages/blogs/blogs.md
+  - Tutorials: pages/tutorials/tutorials.md
 theme:
   name: material
   logo: images/AAU_UK_CIRCLE_white_cmyk.svg

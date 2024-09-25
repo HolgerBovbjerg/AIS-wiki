@@ -1,5 +1,9 @@
 # AI and Sound Section @ Aalborg University
 
+<div style="text-align: center;">
+    <img src="images/anechoic_room_mic.webp" alt="mic in anechoic room" style="width: 100%; max-width: 600px;"/>
+</div>
+
 **Welcome to the AI and Sound Section at Aalborg University!**
 
 On this webpage you can find information about our current projects, our collaborations as well as practical information for new employees and visitors.
