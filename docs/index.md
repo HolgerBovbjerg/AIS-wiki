@@ -14,7 +14,7 @@ as well as their various applications such as speech enhancement or sound zones.
 ## Our Projects
 We are involved in several innovative projects, collaborating with both industry and academic partners to push the boundaries of what is possible.
 
-Feel free to explore our projects and reach if you are interested in collaboration!
+Feel free to explore [our projects](pages/projects/projects.md) and reach if you are interested in collaboration!
 
 ## Contact Information
 - **Head of Section**: Jan Østergaard
