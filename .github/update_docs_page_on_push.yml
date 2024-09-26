@@ -7,6 +7,13 @@ on:
     paths:
       - 'docs/**'  # Only trigger when there are changes in the docs folder
       - 'mkdocs.yml'  # Also trigger if mkdocs.yml changes
+      
+  pull_request:
+    branches:
+      - main  # Trigger when a pull request is merged into main
+    paths:
+      - 'docs/**'
+      - 'mkdocs.yml'
 
 jobs:
   deploy:
