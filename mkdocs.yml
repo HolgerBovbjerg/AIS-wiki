@@ -1,5 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: AI and Sound Wiki
+plugins:
+  - blog
 nav:
   - Home: index.md
   - Our Projects: pages/projects/projects.md
@@ -21,6 +23,5 @@ theme:
     background: white       # Background color
 extra_css:
   - stylesheets/extra.css
-plugins:
-  - blog
+
 
