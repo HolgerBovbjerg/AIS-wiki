@@ -2,7 +2,7 @@
 site_name: AI and Sound Wiki
 nav:
   - Home: index.md
-  - Current Projects: pages/projects/projects.md
+  - Our Projects: pages/projects/projects.md
   - Staff: pages/staff.md
   - Collaborations: pages/collaborations.md
   - Blog Posts: pages/blogs/blogs.md
