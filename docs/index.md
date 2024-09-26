@@ -1,4 +1,7 @@
-# AI and Sound Section @ Aalborg University
+<h1 style="text-align: center;">
+    AI and Sound Section @ Aalborg University
+</h1>
+
 <div style="text-align: center;">
     <img src="images/anechoic_room_mic.webp" alt="mic in anechoic room" style="width: 100%; max-width: 600px;"/>
 </div>
