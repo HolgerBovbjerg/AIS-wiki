@@ -1,4 +1,8 @@
 name: Publish docs via GitHub Pages
+
+permissions:
+  contents: write  # Grant write access to the repository
+
 on:
   push:
     branches:
