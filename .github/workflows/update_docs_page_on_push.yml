@@ -1,22 +1,20 @@
-name: Deploy MkDocs to GitHub Pages
-
+name: Publish docs via GitHub Pages
 on:
   push:
     branches:
-      - main  # Adjust this to your default branch
-    paths:
-      - 'docs/**'  # Only trigger when there are changes in the docs folder
-      - 'mkdocs.yml'  # Also trigger if mkdocs.yml changes
+      - main
+
 
 jobs:
-  deploy:
+  build:
+    name: Deploy docs
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout main
+        uses: actions/checkout@v2
 
-    - name: Deploy docs
-      uses: mhausenblas/mkdocs-deploy-gh-pages@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -5,7 +5,7 @@ nav:
   - Our Projects: pages/projects/projects.md
   - Staff: pages/staff.md
   - Collaborations: pages/collaborations.md
-  - Blog: pages/blog/index.md
+  - Blog: blog/index.md
   - Tutorials: pages/tutorials/tutorials.md
   - Templates: pages/templates/templates.md
   - Practical Information: pages/practical_info/practical_info.md
