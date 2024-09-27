@@ -17,14 +17,11 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Home: index.md
-  - Blog:
-    - blog/index.md
   - Our Projects: pages/projects/projects.md
   - Staff: pages/staff.md
   - Collaborations: pages/collaborations.md
   - Tutorials: pages/tutorials/tutorials.md
   - Templates: pages/templates/templates.md
   - Practical Information: pages/practical_info/practical_info.md
-  - Idea Box: pages/idea_box/idea_box.md
 
 
