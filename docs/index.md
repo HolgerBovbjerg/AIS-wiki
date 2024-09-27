@@ -8,7 +8,7 @@
 
 <p style="text-align: center;">
     <b>Welcome to the AI and Sound Section at Aalborg University!</b>
-    On this webpage you can find information about our section as well as practical information for new employees and visitors.
+    This is our internal wiki where you can find information about our section as well as practical information, templates and tutorials.
 </p>
 
 ## Overview
