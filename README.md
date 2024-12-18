@@ -15,7 +15,7 @@ The wiki uses a custom MkDocs theme styled with the AAU font and colours:
 - **Primary Colors**:
   - #211a52
   - #594fbf
-  - #54616e (on white background)
+  - #54616e 
 - **Secondary Colors**:
   - #bb5b17
   - #97701f
@@ -47,7 +47,9 @@ To preview the wiki locally, follow these steps:
 
 ## Deployment
 
-The wiki is automatically deployed to GitHub Pages whenever changes are pushed to the `main` branch. Ensure your changes are correctly reflected by running the wiki locally before pushing.
+The wiki is automatically deployed to GitHub Pages whenever changes are pushed to the `main` branch. 
+Ensure your changes are correctly reflected by running the wiki locally before pushing.
+Then make PR to include changes.
 
 ## How to Contribute
 
