@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap');
+
+body {
+    font-family: 'Barlow', sans-serif;
+    background-color: white;
+    color: #211a52; /* Primary text color */
+}
+
+.md-header {
+    background-color: #211a52; /* Replace with your desired color */
+    color: white; /* Text color in the header */
+}
+
+.md-content h1 {
+    color: #211a52; /* Adjust the color as needed */
+}
+
+/* General styles for headers */
+h2, h3, h4, h5, h6 {
+    color: #211a52; /*#594fbf; /* Main header color */
+}
+
+/* Link styles */
+a {
+    color: #594fbf; /*#007fa3; /* Link color */
+}
+
+a:hover {
+    color: #cc445b; /* Link hover color */
+}
+
+
+/* Secondary color examples */
+.secondary-color {
+    color: #bb5b17; /* Use this class for secondary colors */
+}
