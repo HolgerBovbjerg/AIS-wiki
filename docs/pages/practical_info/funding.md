@@ -8,6 +8,7 @@ You can apply for these funds if you need help to cover costs related to travel 
 * Otto-Mønsted
 * William demant fonden
 * Fulbright (For research stay in the U.S, Danish citizens only)
+* [JSPS fellowships](https://www.jsps.go.jp/english/e-inv_researchers/) (For research stays in Japan)
 * ...
 
 ## Project funding
