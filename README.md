@@ -6,7 +6,7 @@ Welcome to the **AI and Sound Wiki** repository! This repository contains the so
 
 - **`docs/`**: Contains all the markdown files for the wiki content.
 - **`mkdocs.yml`**: Configuration file for MkDocs. Defines the wiki structure, themes, and settings.
-- **`assets/`**: Includes additional files like images or other static assets used in the wiki.
+- **`Templates/`**: Includes templates for various things such as presentations, PhD plans, Conference attendance etc.
 
 ## Wiki Theme and Styling
 
