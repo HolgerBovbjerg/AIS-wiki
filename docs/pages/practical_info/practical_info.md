@@ -4,4 +4,4 @@ Here you can read practical info relevant for:
 - How to print
 - Guide to ERP
 - Guide to CWT
-- Guide to ...
+- [Funding](funding.md)
