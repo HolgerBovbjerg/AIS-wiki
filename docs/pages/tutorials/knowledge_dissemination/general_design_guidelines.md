@@ -21,6 +21,7 @@ However, when creating figures and plots, it is generally better to use a sans-s
 
 When making posters and presentation slides, it generally recommended to only use sans-serif fonts.
 The following links contains some discussions of when to use serif vs. sans-serif:
+
 * [APA style](https://apastyle.apa.org/style-grammar-guidelines/paper-format/font)
 * [Adobe - Picking the right font: Serif vs. sans serif](https://www.adobe.com/creativecloud/design/discover/serif-vs-sans-serif.html)
 
