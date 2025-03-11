@@ -11,7 +11,6 @@ You can apply for these funds if you need help to cover costs related to travel 
 * [JSPS fellowships](https://www.jsps.go.jp/english/e-inv_researchers/) - For research stays in Japan
 * [William demant fonden](https://www.williamdemantfonden.dk/how-to-apply) - For research stays.
 * [Knud Højgaard Fonden](https://www.khf.dk/) - For research stays of at least 3 months.
-* [Danish Data Science Academy](https://ddsa.dk/travelgrants/) - 
 
 ## Project funding
 The following sources can fund full PhD or postdoc project proposals and require a substantial effort and generally also collaboration with a professor before applying.
