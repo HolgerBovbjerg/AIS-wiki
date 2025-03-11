@@ -15,7 +15,7 @@ It is important that the presented material fits the amount of time a viewer wil
 For instance, it can sometimes take more than 30 seconds to understand a single math equation, but it is easy to fit 5 different equations into a single slide.
 In this case, we should consider whether the equations are really necessary, and if so, make time to properly explain them in a tempo that the audience can follow.
 
-**Slides vs. Blackboard**
+**Slides vs. Blackboard:**
 These days most presentations are done using slides on a computer. 
 Computer slides have the benefit that you can quickly present information in a structured manner, and allows you to present complex information in an easy way.
 However, the latter part is also a downside of using slides, as you often end up presenting a lot of complex information in a short time.
@@ -24,7 +24,7 @@ Therefore, using the blackboard for your presentation might be considered for te
 However, using the blackboard during lectures requires good handwriting and drawing skills.
 A hybrid approach can also be used, where you present some theory, with some initial simple examples on the blackboard, and later want to show more complex examples on slides.
 
-**Audience interaction**
+**Audience interaction:**
 During your presentation you can interact with the audience in many ways.
 The most straight forward way is to pose them a question, and hope somebody answers. 
 However, this only works if the audience is actively engaged, and might occasionally be met with silence, especially Monday morning.
