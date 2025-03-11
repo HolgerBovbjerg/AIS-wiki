@@ -4,3 +4,4 @@ Here you can find templates for various stuff.
 - [Latex Poster Templates](https://github.com/HolgerBovbjerg/AIS-wiki/tree/main/templates/latex_templates/poster)
 - [Latex Presentations Templates](https://github.com/HolgerBovbjerg/AIS-wiki/tree/main/templates/latex_templates/presentation)
 - [Travel Budget Templates](https://github.com/HolgerBovbjerg/AIS-wiki/tree/main/templates/travel_budget_templates)
+- [Conference Participation Outcome Templates](https://github.com/HolgerBovbjerg/AIS-wiki/tree/main/templates/conference_participation_outcome)
