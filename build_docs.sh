@@ -27,7 +27,7 @@ done
 
 # Check if MkDocs is installed
 if ! command -v mkdocs &> /dev/null; then
-  echo "Error: MkDocs is not installed. Please install it with 'pip install mkdocs'."
+  echo "Error: MkDocs is not installed. Please install necessary packages with 'pip install mkdocs mkdcocs-material'."
   exit 1
 fi
 
