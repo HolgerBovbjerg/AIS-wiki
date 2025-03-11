@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-    AI and Sound Section @ Aalborg University
+    AI and Sound section @ Aalborg University
 </h1>
 
 <div style="text-align: center;">
