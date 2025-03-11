@@ -34,5 +34,6 @@ However, this requires some preparations, as you have to be sure that the demons
 
 ## Further information
 For more information on presentation techniques see:
+
 * [Patrick Winston (MIT) - How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY&t=22s&pp=ygUMaG93IHRvIHNwZWFr)
 * [Susan McConnell (Stanford) - Designing effective scientific presentations](https://www.youtube.com/watch?v=Hp7Id3Yb9XQ)
