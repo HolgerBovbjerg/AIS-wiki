@@ -7,8 +7,8 @@
 </div>
 
 <p style="text-align: center;">
-    <b>Welcome to the AI and Sound Section at Aalborg University!</b>
-    This is our internal wiki where you can find information about our section as well as practical information, templates and tutorials.
+    <b>Welcome to the AI and Sound Section wiki!</b>
+    This is our internal wiki where you can find general information about our section as well as practical information, templates and tutorials.
 </p>
 
 ## About The Section
