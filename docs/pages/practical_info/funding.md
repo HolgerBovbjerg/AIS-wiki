@@ -29,8 +29,8 @@ The goal of these funds are generally to encourage innovation and knowledge tran
 Also, the money is considered "soft funding", i.e., to get it you do not need to give back some percentage share of the company to get it, nor do you need to pay it back at a later stage.
 
 * [Innofounder](https://innovationsfonden.dk/da/p/innofounder) - 12 months salary to allow pursuing your idea + mentoring
-* [Innoexplorer](https://innovationsfonden.dk/da/p/innoexplorer) - 500.000 to 1.500.000 DKK for a 12 month period, targeted research to business ideas in collaboration with the research organization
+* [Innoexplorer](https://innovationsfonden.dk/da/p/innoexplorer) - 500.000 to 1.500.000 DKK for a 12-month period, targeted research to business ideas in collaboration with the research organization
 * [Innobooster](https://innovationsfonden.dk/da/p/innobooster) - Funds 35% of a development project with a company 
-* [Otto-Mønsted Fonden - Den Lyse Idé 2025](https://omfonden.dk/ansoegning/) - 500.000 DKK, Requires danish CPR-number og a danish bank account)
+* [Otto-Mønsted Fonden - Den Lyse Idé 2025](https://omfonden.dk/ansoegning/) - 500.000 DKK, Requires danish CPR-number and a danish bank account)
 
 
