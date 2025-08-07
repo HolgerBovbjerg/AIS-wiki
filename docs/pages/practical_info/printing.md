@@ -22,9 +22,7 @@ To print a poster, simply send your **PDF file** to [komponenten@es.aau.dk](mail
 Please also include information about when you need the poster, so the staff knows whether the job is urgent.
 The staff will handle the printing for you and let you know when the poster is ready.
 
-### What size should I choose: A0 or A0+?
-
-The printer uses paper that is **914 mm wide**, which is slightly wider than standard A0. You can choose between the following options:
+The local printer uses paper that is **914 mm wide**, which is slightly wider than standard A0. You can choose between the following options:
 
 - **A0**  
   Printed at standard A0 size, resulting in white margins of approximately **30 mm on each side**.  
