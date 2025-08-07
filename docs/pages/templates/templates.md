@@ -18,6 +18,6 @@ Various versions of the AAU waves can be acessed in [here](https://github.com/Ho
 ### AAU logos
 If you wish to use the AAU logo in your work they can be found [here](https://github.com/HolgerBovbjerg/AIS-wiki/tree/main/templates/graphics/AAU/logos/).
 
-## Other logos 
+### Other logos 
 Logos for the Pioneer Centre for AI and CASPR can be found [here](https://github.com/HolgerBovbjerg/AIS-wiki/tree/main/templates/graphics/Pioneer_Centre_for_AI/)
 and [here](https://github.com/HolgerBovbjerg/AIS-wiki/tree/main/templates/graphics/CASPR/), respectively.
