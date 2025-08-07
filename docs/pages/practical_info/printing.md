@@ -18,8 +18,9 @@ If you want to use this service, please ensure your poster is finalized and sent
 ## Local poster printing
 This option is great if you are in a hurry, as the print time is much faster than the professional service.
 
-To print a poster, simply send your **PDF file** to [komponenten@es.aau.dk](mailto:komponenten@es.aau.dk). 
-The staff will handle the printing for you.
+To print a poster, simply send your **PDF file** to [komponenten@es.aau.dk](mailto:komponenten@es.aau.dk) along with your preferred print options.
+Please also include information about when you need the poster, so the staff knows whether the job is urgent.
+The staff will handle the printing for you and let you know when the poster is ready.
 
 ### What size should I choose: A0 or A0+?
 
